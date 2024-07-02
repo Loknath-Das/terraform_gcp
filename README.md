@@ -15,7 +15,7 @@ This project uses Terraform to set up a Google Cloud Platform (GCP) environment 
 ## Project Structure
 
 ```plaintext
-my-terraform-project/
+folder/
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
